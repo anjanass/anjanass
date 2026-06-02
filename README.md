@@ -5,13 +5,13 @@
 
 🌱 Currently taking my first steps into programming, web development, and AI.
 
-* 🎓 **Studying:** Computer Engineering
-* 🌱 **Currently learning:** Python, Web Development, and Machine Learning
-* 🚀 **Goal:** To build useful projects and become a skilled software engineer
-* 🤝 **Looking to collaborate on:** Beginner-friendly projects and open-source contributions
-* 💬 **Ask me about:** Student life, Python basics, GitHub, and learning tech
-* 📚 **Currently exploring:** How technology can solve real-world problems
-* ⚡ **Fun fact:** Every expert was once a beginner, and I'm enjoying the journey!
+*  **Studying:** Computer Engineering
+*  **Currently learning:** Python, Web Development, and Machine Learning
+*  **Goal:** To build useful projects and become a skilled software engineer
+*  **Looking to collaborate on:** Beginner-friendly projects and open-source contributions
+*  **Ask me about:** Student life, Python basics, GitHub, and learning tech
+*  **Currently exploring:** How technology can solve real-world problems
+*  **Fun fact:** Every expert was once a beginner, and I'm enjoying the journey!
 
 > "Small progress is still progress." 🌷
 > Email Me 👉 ✉️ **anjanashrestha612@gmail.com** For Collaboration/Project or Anything Else. 😊😊
